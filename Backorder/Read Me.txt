@@ -1,0 +1,29 @@
+----------------------------------ArCo-----------------------------------
+
+
+Requirements for ArCo.py to run 
+
+
+the program need`s to be in the same directory with the files that you are working with 
+reaname the file that you are searching your main data as main.xlsx file 
+and the file you are copy data from as compare-with-main.xlsx
+
+
+--------------- _|@|_  ATTENTION  _|@|_------------------------------------
+THE FILE EXCTENSION MATTERS , THIS PROGRAM WILL WORK ONLY WITH .xlsx FILES
+-----------------------------------------------------------------------------
+
+
+1 - Program go though compare-with-main.xlsx file and get the first order number 
+2 - validate if the number exist on the main.xlsx file 
+3 - if the number exist , the value is stored in memory 
+4 - if doesn`t exist take the next number 
+5 - after it has gone through the whole row in the main.xlsx , dump the selected values in a new list
+6 - using dataframe .loc() method start to select the row where the condition is a iterable (our case new list)
+7 - save all the information needed on a dataframe variable in memory 
+8 - creates a new file called masterfile.xlsx and convert the dataframe to xcel spreadsheet 
+
+
+
+
+
