@@ -1,3 +1,7 @@
+Explore the source code 
+Backorder/.src/ArCo.py
+
+
 ----------------------------------ArCo-----------------------------------
 
 
@@ -10,6 +14,7 @@ Renaming excel files that you are working with is importand
 
 the file that contain the pormis dates should be renames as compare.xlsx 
 and the file that has the structure and all the order numbers should be renamed as main.xlsx
+
 
 
 --------------- _|@|_  ATTENTION  _|@|_------------------------------------
